@@ -21,4 +21,4 @@ eller helst som en custom posttype.)
 -API (Som ägare av sidan vill jag att mina portfolio-saker går att hämta ut via ett REST-api samt att det som 
 syns på mitt portfolio hämtas dit via detta API med JavaScript.)
 
-- CV (Som ägare av sidan vill jag att mitt CV hanteras som en egen tema-del och att informationen sköts genom ACF-pluginen.)
+-CV (Som ägare av sidan vill jag att mitt CV hanteras som en egen tema-del och att informationen sköts genom ACF-pluginen.)
