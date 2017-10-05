@@ -1,6 +1,7 @@
 # Patrik-Hogler-WP-realese3
 School project
 
+HTML,CSS,Javascript, jquery, PHP (mysqli), WordPress
 
 http://patrikhogler.se/
 
